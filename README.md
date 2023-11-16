@@ -9,52 +9,51 @@ I commence the risk assessment by reviewing the organization's established conte
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download Software(window10): <br/>
+Establish the Context: <br/>
 <img src="https://i.imgur.com/DnzAZx0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Download Software(VLC 1.1.1): <br/>
+ Risk Assessment Team: <br/>
 <img src="https://i.imgur.com/4Efu7tb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Download Software(Firefox old version): <br/>
+ Risk Identification: <br/>
 <img src="https://i.imgur.com/rvbAplq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Qualys Account:  <br/>
+Risk Analysis:  <br/>
 <img src="https://i.imgur.com/01zZZiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up Qualys VA: <br/>
+Risk Evaluation: <br/>
 <img src="https://i.imgur.com/jPbAR7j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Installing Win 10 VM:  <br/>
+Risk Treatment:  <br/>
 <img src="https://i.imgur.com/WmVrYbz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up a Scan:  <br/>
+Documentation:  <br/>
 <img src="https://i.imgur.com/r0J2xzr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Changing Win 10 settings:  <br/>
+Monitoring and Review:  <br/>
 <img src="https://i.imgur.com/SjdBtrK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Non authenticated scan:  <br/>
+Communication:  <br/>
 <img src="https://i.imgur.com/vGl1PDf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Authenticated scan:  <br/>
+ Continuous Improvement:  <br/>
 <img src="https://i.imgur.com/vqWXRUQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Remediating vulnerabilities:  <br/>
+ Compliance:  <br/>
 <img src="https://i.imgur.com/Furb1C9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Verifying Remediations:  <br/>
-<img src="https://i.imgur.com/fZsbb9p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
