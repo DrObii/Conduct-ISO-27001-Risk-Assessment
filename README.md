@@ -2,7 +2,11 @@
 
 
 <h2>Description</h2>
-I commence the risk assessment by reviewing the organization's established context and scope for information security. I assess the composition and competency of the risk assessment team, ensuring representation from relevant departments. Through interviews, document reviews, and brainstorming sessions, I identify potential risks to information security, considering internal and external factors. Using a risk matrix, I analyze and evaluate the identified risks, considering likelihood, impact, and existing controls. Prioritizing risks, I assess the effectiveness of current controls and determine acceptable risk levels. Documenting the entire process.
+I commence the risk assessment by reviewing the organization's established context and scope for information security. 
+I assess the composition and competency of the risk assessment team, ensuring representation from relevant departments. 
+Through interviews, document reviews, and brainstorming sessions, I identify potential risks to information security, considering internal and external factors.
+Using a risk matrix, I analyze and evaluate the identified risks, considering likelihood, impact, and existing controls. Prioritizing risks, I assess the effectiveness of current controls and determine acceptable risk levels. 
+Documenting the entire process.
 <br />
 
 
